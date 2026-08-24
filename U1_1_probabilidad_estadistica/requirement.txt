@@ -2,3 +2,5 @@ Python = 3.13.6
 Pandas = 3.0.5
 NumPy = 2.5.2
 Jupyter Notebook = 7.6.2
+
+Prueba Git
