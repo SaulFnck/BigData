@@ -1,0 +1,11 @@
+/pdfs
+
+.vscode
+
+**/.venv
+
+**/__pycache__
+
+**/.ipynb_checkpoints
+
+U1_2_prueba
